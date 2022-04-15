@@ -3,7 +3,7 @@ using namespace std;
 
 template <typename Left, typename Right>
 auto f(const Left &left) {
-    return [left](const Right &right) { return left + right; };
+    return [left](const Right &right) { return right + left; };
 }
 
 int main() {
