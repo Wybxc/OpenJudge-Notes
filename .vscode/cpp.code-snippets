@@ -1,0 +1,16 @@
+{
+	"Initial Template": {
+		"scope": "cpp",
+		"prefix": "#io",
+		"body": [
+			"#include <iostream>",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"    $0",
+			"    return 0;",
+			"}"
+		],
+		"description": "Initial Template"
+	}
+}
