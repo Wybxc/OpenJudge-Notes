@@ -2,5 +2,6 @@
 *.dll
 *.txt
 *.out
+*.s
 .idea/
 cmake-build-*/
